@@ -39,3 +39,4 @@ elif wybor == '4':
    print(num1,"/",num2,"=", podziel(num1,num2))
 else:
    print("Nieprawidłowe dane wejściowe")
+
